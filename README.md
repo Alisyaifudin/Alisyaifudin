@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alisyaifudin
 - 👀 I’m interested in Data Science and Web Developer
-- 🌱 I’m currently learning Python and Java
+- 🌱 I’m currently learning Python, Java, HTML, css,and JavaScript
 - 💞️ I’m looking to collaborate on Data Science and Web Developer related topics
 - 📫 How to reach me: zx.797.2@gmail.com
 
