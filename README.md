@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Alisyaifudin
 - 👀 I’m interested in (Data) Science and Web Developer
-- 🌱 I’m currently learning Python, HTML, CSS, JavaScript (and TypeScript!)
-- ✨ My preferred stack are React, Material Ui, Redux, (now learning Recoil!), Nextjs, MongoDB, and Express! (Maybe Django in the future)
+- 🌱 I’m kind of fluent in Python, HTML, CSS, and JavaScript (TypeScript gang 👊😎!)
+- ✨ My preferred stack are Nextjs (React), Redux, Tailwind css, Emotion, Prisma, and GraphQL (Apollo!)
+- 🤖 I have learned these technologies!: Recoil, MongoDB, Express, Django, Mantine, Material UI, Docker, SQL
 - 💞️ I’m looking to collaborate on (Data) Science and Web Developer related topics
 - 📫 How to reach me: muhammad.ali.syaifudin@hotmail.com
 
